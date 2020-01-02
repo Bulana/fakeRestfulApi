@@ -1,0 +1,72 @@
+{
+    "page": 1,
+    "total_results": 10000,
+    "total_pages": 500,
+    "results": [
+      {
+        "popularity": 400.039,
+        "vote_count": 1767,
+        "video": false,
+        "poster_path": "\/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+        "id": 181812,
+        "adult": false,
+        "backdrop_path": "\/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg",
+        "original_language": "en",
+        "original_title": "Huawei P20 Pro (Dual Sim) 128GB Black",
+        "genre_ids": [
+          28,
+          12,
+          878
+
+
+        ],
+        "title": "Huawei P20 Pro (Dual Sim) 128GB Black",
+        "vote_average": "OUT",
+        "overview": "Taken By Nkosikhona for Android development",
+        "release_date": "2019-12-18"
+      },
+      {
+        "popularity": 498.648,
+        "vote_count": 1605,
+        "video": false,
+        "poster_path": "\/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+        "id": 419704,
+        "adult": false,
+        "backdrop_path": "\/p3TCqUDoVsrIm8fHK9KOTfWnDjZ.jpg",
+        "original_language": "en",
+        "original_title": "Samsung Galaxy A3 2017 - Black",
+        "genre_ids": [
+          12,
+          18,
+          9648,
+          878,
+          53
+        ],
+        "title": "Samsung Galaxy A3 2017 - Black",
+        "vote_average": 6,
+        "overview": "Taken By Nkosikhona for Android development",
+        "release_date": "2019-09-17"
+      },
+      {
+        "popularity": 259.883,
+        "vote_count": 766,
+        "video": false,
+        "poster_path": "\/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+        "id": 512200,
+        "adult": false,
+        "backdrop_path": "\/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+        "original_language": "en",
+        "original_title": "Google Pixel 3 64GB Just Black",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          14
+        ],
+        "title": "Google Pixel 3 64GB Just Black",
+        "vote_average": 6.8,
+        "overview": "Taken By Srini for QA testing",
+        "release_date": "2019-12-04"
+      }
+    ]
+  }
